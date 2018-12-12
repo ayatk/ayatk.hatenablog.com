@@ -1,0 +1,1 @@
+# ayatk.hatenablog.com
