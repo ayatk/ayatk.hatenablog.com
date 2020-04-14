@@ -12,10 +12,15 @@
   },
   "homepage": "https://github.com/ayatk/ayatk.hatenablog.com#readme",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "textlint": "textlint entry/**/*.md",
+    "textlint:fix": "textlint --fix entry/**/*.md"
   },
   "dependencies": {
-    "textlint": "^11.6.3"
+    "textlint": "^11.6.3",
+    "textlint-rule-no-nfd": "^1.0.2",
+    "textlint-rule-preset-ja-spacing": "^2.0.1",
+    "textlint-rule-preset-ja-technical-writing": "^4.0.0-beta.0",
+    "textlint-rule-preset-jtf-style": "^2.3.4"
   },
   "devDependencies": {}
 }
