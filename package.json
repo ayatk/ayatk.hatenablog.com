@@ -1,0 +1,19 @@
+{
+  "name": "ayatk.hatenablog.com",
+  "version": "1.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayatk/ayatk.hatenablog.com.git"
+  },
+  "author": "ayatk",
+  "bugs": {
+    "url": "https://github.com/ayatk/ayatk.hatenablog.com/issues"
+  },
+  "homepage": "https://github.com/ayatk/ayatk.hatenablog.com#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
