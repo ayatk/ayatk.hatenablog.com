@@ -18,11 +18,11 @@
     "textlint:fix": "textlint --fix entry/**/*.md"
   },
   "dependencies": {
-    "prettier": "^2.0.4",
-    "textlint": "^11.6.3",
+    "prettier": "^2.4.1",
+    "textlint": "^12.0.2",
     "textlint-rule-no-nfd": "^1.0.2",
-    "textlint-rule-preset-ja-spacing": "^2.0.1",
-    "textlint-rule-preset-ja-technical-writing": "^4.0.0-beta.0",
-    "textlint-rule-preset-jtf-style": "^2.3.4"
+    "textlint-rule-preset-ja-spacing": "^2.2.0",
+    "textlint-rule-preset-ja-technical-writing": "^7.0.0",
+    "textlint-rule-preset-jtf-style": "^2.3.12"
   }
 }
